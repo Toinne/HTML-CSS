@@ -44,7 +44,7 @@ _Deadline Monday_
 - Inside this repository create a folder `week0`.
 - Use the code of the application assignment you have made, copy and paste the html in a `index.html` file and the css in a `style.css` file and upload it to github in the `week0` folder.
 - For better instructions on how to do this please check the [how to hand in homework](#how-to-hand-in-homework) down below.
-- In Trello, you are assigned to one of the cards of your fellow students (in the _your class number_ Week0 HTML/CSS list). Give feedback on the application assignment of your fellow student. Please be critical but most of all give constructive feedback. If there are resources that you used and might be useful, share them.
+- In the the [Google spreadsheet](https://docs.google.com/spreadsheets/d/1Eps12g8QKV41vKT2E1wzZUHRGC8aJ4Iz3Pqy_bShPXk/edit?usp=sharing), you are assigned to review one of your fellow students (on the Homework week 1 sheet). Give feedback on the application assignment of your fellow student. Please be critical but most of all give constructive feedback. If there are resources that you used and might be useful, share them.
 - revisit you own application assignment and improve it with the feedback and suggestions given by one of your classmates.
 
 > Don't forget, you can always revisit Khan Academy: [Into to HTML/CSS: Making web pages](https://nl.khanacademy.org/computing/computer-programming/html-css) if you are stuck and need a reminder
@@ -74,7 +74,7 @@ _Deadline Saturday_
 
 ### How to hand in Homework:
 _Steps_:
-1. In your newly created Github account search for the invitation from the HackYourFutureBelgium organization to you join your classes team.
+1. In your newly created Github account search for the invitation from the HackYourFutureBeHomeWork organization to you join your classes team.
 2. Create a new repository (name it something like hyf-html-css) make sure you select the option: initialize with README.
 3. Inside your new repository create a folder called "week1". If you have trouble finding out how to create a folder in Github check this [Stack Overflow question](https://stackoverflow.com/questions/18773598/creating-folders-inside-github-com-repo-without-using-git)
 >Tip: you can also create a "week1" folder on your local computer that contains you files and upload the entire folder to Github.
